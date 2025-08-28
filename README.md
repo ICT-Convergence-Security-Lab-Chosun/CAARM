@@ -161,3 +161,20 @@ This project is **not affiliated, associated, authorized, or endorsed** by the o
 We fully acknowledge and respect their original contributions.
 
 ---
+
+## Citation
+
+If you find this repository helpful for your work, we would appreciate it if you could cite our paper.
+
+```
+@inproceedings{
+choe2025do,
+title={Do All Autoregressive Transformers Remeber Facts the Same Way? A Cross-Architecture Analysis of Recall Mechanisms},
+author={Minyeong Choe and Haehyun Cho and Changho Seo and Hyunil Kim},
+booktitle={The 2025 Conference on Empirical Methods in Natural Language Processing},
+year={2025},
+url={https://openreview.net/forum?id=iJef6mJbpE}
+}
+```
+
+

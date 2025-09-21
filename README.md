@@ -167,13 +167,11 @@ We fully acknowledge and respect their original contributions.
 If you find this repository helpful for your work, we would appreciate it if you could cite our paper.
 
 ```
-@inproceedings{
-choe2025do,
-title={Do All Autoregressive Transformers Remeber Facts the Same Way? A Cross-Architecture Analysis of Recall Mechanisms},
-author={Minyeong Choe and Haehyun Cho and Changho Seo and Hyunil Kim},
-booktitle={The 2025 Conference on Empirical Methods in Natural Language Processing},
-year={2025},
-url={https://openreview.net/forum?id=iJef6mJbpE}
+@article{choe2025all,
+  title={Do All Autoregressive Transformers Remember Facts the Same Way? A Cross-Architecture Analysis of Recall Mechanisms},
+  author={Choe, Minyeong and Cho, Haehyun and Seo, Changho and Kim, Hyunil},
+  journal={arXiv preprint arXiv:2509.08778},
+  year={2025}
 }
 ```
 

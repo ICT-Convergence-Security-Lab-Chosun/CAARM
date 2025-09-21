@@ -1,6 +1,6 @@
 # Do All Transformers Remember Facts the Same Way?<br> A Cross-Architecture Analysis of Recall Mechanisms
 ---
-![Do All Transformers Remember Facts the Same Way? A Cross-Architecture Analysis of Recall Mechanisms](figures/Figure1.svg)
+![Do All Transformers Remember Facts the Same Way? A Cross-Architecture Analysis of Recall Mechanisms](figures/Fig1.png)
 
 This repository implements the method described in  
 *Do All Transformers Remember Facts the Same Way? A Cross-Architecture Analysis of Recall Mechanisms*

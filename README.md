@@ -167,11 +167,26 @@ We fully acknowledge and respect their original contributions.
 If you find this repository helpful for your work, we would appreciate it if you could cite our paper.
 
 ```
-@article{choe2025all,
-  title={Do All Autoregressive Transformers Remember Facts the Same Way? A Cross-Architecture Analysis of Recall Mechanisms},
-  author={Choe, Minyeong and Cho, Haehyun and Seo, Changho and Kim, Hyunil},
-  journal={arXiv preprint arXiv:2509.08778},
-  year={2025}
+@inproceedings{choe-etal-2025-autoregressive,
+    title = "Do All Autoregressive Transformers Remember Facts the Same Way? A Cross-Architecture Analysis of Recall Mechanisms",
+    author = "Choe, Minyeong  and
+      Cho, Haehyun  and
+      Seo, Changho  and
+      Kim, Hyunil",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.emnlp-main.1448/",
+    doi = "10.18653/v1/2025.emnlp-main.1448",
+    pages = "28482--28501",
+    ISBN = "979-8-89176-332-6",
+    abstract = "Understanding how Transformer-based language models store and retrieve factual associations is critical for improving interpretability and enabling targeted model editing. Prior work, primarily on GPT-style models, has identified MLP modules in early layers as key contributors to factual recall. However, it remains unclear whether these findings generalize across different autoregressive architectures. To address this, we conduct a comprehensive evaluation of factual recall across several models{---}including GPT, LLaMA, Qwen, and DeepSeek{---}analyzing where and how factual information is encoded and accessed. Consequently, we find that Qwen-based models behave differently from previous patterns: attention modules in the earliest layers contribute more to factual recall than MLP modules. Our findings suggest that even within the autoregressive Transformer family, architectural variations can lead to fundamentally different mechanisms of factual recall."
 }
 ```
 

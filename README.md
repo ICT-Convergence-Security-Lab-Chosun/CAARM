@@ -3,7 +3,7 @@
 ![Do All Transformers Remember Facts the Same Way? A Cross-Architecture Analysis of Recall Mechanisms](figures/Fig1.png)
 
 This repository implements the method described in  
-*Do All Transformers Remember Facts the Same Way? A Cross-Architecture Analysis of Recall Mechanisms*
+[*Do All Transformers Remember Facts the Same Way? A Cross-Architecture Analysis of Recall Mechanisms*](https://aclanthology.org/2025.emnlp-main.1448/)
 
 It supports a variety of autoregressive transformer models, including:
 

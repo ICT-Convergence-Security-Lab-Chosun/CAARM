@@ -1,0 +1,603 @@
+[
+  {
+    "known_id": 0,
+    "subject": "Netflix",
+    "attribute": "companies",
+    "prompt": "Netflix licenses content from various production"
+  },
+  {
+    "known_id": 1,
+    "subject": "YouTube",
+    "attribute": "videos",
+    "prompt": "YouTube is used to watch entertaining"
+  },
+  {
+    "known_id": 2,
+    "subject": "YouTube",
+    "attribute": "videos",
+    "prompt": "YouTube lets users upload and watch"
+  },
+  {
+    "known_id": 3,
+    "subject": "Facebook",
+    "attribute": "media",
+    "prompt": "Facebook links people via social"
+  },
+  {
+    "known_id": 4,
+    "subject": "Netflix",
+    "attribute": "shows",
+    "prompt": "Netflix allows users to watch TV"
+  },
+  {
+    "known_id": 5,
+    "subject": "Netflix",
+    "attribute": "content",
+    "prompt": "Netflix is known for its exclusive"
+  },
+  {
+    "known_id": 6,
+    "subject": "Apple",
+    "attribute": "devices",
+    "prompt": "Apple produces and sells electronic"
+  },
+  {
+    "known_id": 7,
+    "subject": "Google",
+    "attribute": "engine",
+    "prompt": "Google is the most popular search"
+  },
+  {
+    "known_id": 8,
+    "subject": "Egypt",
+    "attribute": "Africa",
+    "prompt": "Egypt is geographically part of the continent of"
+  },
+  {
+    "known_id": 9,
+    "subject": "YouTube",
+    "attribute": "purposes",
+    "prompt": "YouTube is widely used for educational"
+  },
+    {
+    "known_id": 10,
+    "subject": "Netflix",
+    "attribute": "movies",
+    "prompt": "Netflix became popular worldwide for streaming"
+  },
+  {
+    "known_id": 11,
+    "subject": "YouTube",
+    "attribute": "streaming",
+    "prompt": "YouTube introduced features such as live"
+  },
+  {
+    "known_id": 12,
+    "subject": "Google",
+    "attribute": "Google",
+    "prompt": "Google created services such as Gmail and"
+  },
+  {
+    "known_id": 13,
+    "subject": "Netflix",
+    "attribute": "movies",
+    "prompt": "Netflix is widely used for watching"
+  },
+  {
+    "known_id": 14,
+    "subject": "Google",
+    "attribute": "Google",
+    "prompt": "Google offers tools like"
+  },
+  {
+    "known_id": 15,
+    "subject": "Google",
+    "attribute": "Google",
+    "prompt": "Google provides services like"
+  },
+  {
+    "known_id": 16,
+    "subject": "Facebook",
+    "attribute": "WhatsApp",
+    "prompt": "Facebook introduced messaging services such as"
+  },
+  {
+    "known_id": 17,
+    "subject": "Facebook",
+    "attribute": "media",
+    "prompt": "Facebook connects audiences via social"
+  },
+  {
+    "known_id": 18,
+    "subject": "Apple",
+    "attribute": "devices",
+    "prompt": "Apple makes and sells electronic"
+  },
+  {
+    "known_id": 19,
+    "subject": "Washington",
+    "attribute": "independence",
+    "prompt": "Washington was the general in charge of the Continental Army during the war of"
+  },
+  {
+    "known_id": 20,
+    "subject": "Paris",
+    "attribute": "France",
+    "prompt": "Paris is the capital city of"
+  },
+  {
+    "known_id": 21,
+    "subject": "China",
+    "attribute": "Asia",
+    "prompt": "China is considered a nation in the continent of"
+  },
+  {
+    "known_id": 22,
+    "subject": "France",
+    "attribute": "Paris",
+    "prompt": "France is widely known for the city of"
+  },
+  {
+    "known_id": 23,
+    "subject": "Mexico",
+    "attribute": "North",
+    "prompt": "Mexico is historically located in the continent of"
+  },
+  {
+    "known_id": 24,
+    "subject": "Canada",
+    "attribute": "North",
+    "prompt": "Canada is a country located in the continent of"
+  },
+  {
+    "known_id": 25,
+    "subject": "Egypt",
+    "attribute": "Africa",
+    "prompt": "Egypt is a country found in the continent of"
+  },
+  {
+    "known_id": 26,
+    "subject": "Spain",
+    "attribute": "Real",
+    "prompt": "Spain is home to football clubs like"
+  },
+  {
+    "known_id": 27,
+    "subject": "India",
+    "attribute": "Hindu",
+    "prompt": "India is famous for religions like"
+  },
+  {
+    "known_id": 28,
+    "subject": "Canada",
+    "attribute": "hockey",
+    "prompt": "Canada is historically associated with sports like"
+  },
+  {
+    "known_id": 29,
+    "subject": "Canada",
+    "attribute": "Toronto",
+    "prompt": "Canada is home to cities like"
+  },
+  {
+    "known_id": 30,
+    "subject": "Canada",
+    "attribute": "oil",
+    "prompt": "Canada produces natural resources like"
+  },
+  {
+    "known_id": 31,
+    "subject": "Israel",
+    "attribute": "Judaism",
+    "prompt": "Israel is recognized as the birthplace of religions like"
+  },
+  {
+    "known_id": 32,
+    "subject": "France",
+    "attribute": "Ch",
+    "prompt": "France continues to produce classic wines such as"
+  },
+  {
+    "known_id": 33,
+    "subject": "Spain",
+    "attribute": "Real",
+    "prompt": "Spain is famous for football clubs such as"
+  },
+  {
+    "known_id": 34,
+    "subject": "India",
+    "attribute": "Hindu",
+    "prompt": "India is well known for religions such as"
+  },
+  {
+    "known_id": 35,
+    "subject": "Canada",
+    "attribute": "hockey",
+    "prompt": "Canada is famous for sports such as"
+  },
+  {
+    "known_id": 36,
+    "subject": "Canada",
+    "attribute": "Toronto",
+    "prompt": "Canada has major cities such as"
+  },
+  {
+    "known_id": 37,
+    "subject": "Canada",
+    "attribute": "oil",
+    "prompt": "Canada is rich in natural resources such as"
+  },
+  {
+    "known_id": 38,
+    "subject": "Turkey",
+    "attribute": "Istanbul",
+    "prompt": "Turkey is home to cities such as"
+  },
+  {
+    "known_id": 39,
+    "subject": "Israel",
+    "attribute": "Judaism",
+    "prompt": "Israel is well known for religions such as"
+  },
+  {
+    "known_id": 40,
+    "subject": "Orange",
+    "attribute": "orange",
+    "prompt": "Orange is popularly used in juices such as"
+  },
+  {
+    "known_id": 41,
+    "subject": "Corn",
+    "attribute": "corn",
+    "prompt": "Corn is commonly processed into products like"
+  },
+  {
+    "known_id": 42,
+    "subject": "Facebook",
+    "attribute": "media",
+    "prompt": "Facebook unites communities via social"
+  },
+  {
+    "known_id": 43,
+    "subject": "Facebook",
+    "attribute": "media",
+    "prompt": "Facebook brings people together via social"
+  },
+  {
+    "known_id": 44,
+    "subject": "Facebook",
+    "attribute": "media",
+    "prompt": "Facebook helps users interact via social"
+  },
+  {
+    "known_id": 45,
+    "subject": "Apple",
+    "attribute": "devices",
+    "prompt": "Apple invents and sells electronic"
+  },
+  {
+    "known_id": 46,
+    "subject": "Tesla",
+    "attribute": "Dr",
+    "prompt": "Tesla joined forces with researchers like"
+  },
+  {
+    "known_id": 47,
+    "subject": "Japan",
+    "attribute": "Tokyo",
+    "prompt": "The most populous city in Japan is"
+  },
+  {
+    "known_id": 48,
+    "subject": "Germany",
+    "attribute": "Berlin",
+    "prompt": "The most important city in Germany is"
+  },
+  {
+    "known_id": 49,
+    "subject": "Egypt",
+    "attribute": "Africa",
+    "prompt": "Egypt is located on the continent of"
+  },
+  {
+    "known_id": 50,
+    "subject": "Egypt",
+    "attribute": "Africa",
+    "prompt": "Egypt is a sovereign state on the continent of"
+  },
+  {
+    "known_id": 51,
+    "subject": "Egypt",
+    "attribute": "Africa",
+    "prompt": "Egypt is identified as part of the continent of"
+  },
+  {
+    "known_id": 52,
+    "subject": "Egypt",
+    "attribute": "Africa",
+    "prompt": "Egypt is placed in the continent of"
+  },
+  {
+    "known_id": 53,
+    "subject": "Egypt",
+    "attribute": "Africa",
+    "prompt": "Egypt is described as a nation in the continent of"
+  },
+  {
+    "known_id": 54,
+    "subject": "Egypt",
+    "attribute": "Africa",
+    "prompt": "Egypt is regarded as a country in the continent of"
+  },
+  {
+    "known_id": 55,
+    "subject": "Egypt",
+    "attribute": "Africa",
+    "prompt": "Egypt lies within the continent of"
+  },
+  {
+    "known_id": 56,
+    "subject": "Egypt",
+    "attribute": "Africa",
+    "prompt": "Egypt is situated within the continent of"
+  },
+  {
+    "known_id": 57,
+    "subject": "Egypt",
+    "attribute": "Africa",
+    "prompt": "Egypt is classified under the continent of"
+  },
+  {
+    "known_id": 58,
+    "subject": "Egypt",
+    "attribute": "Africa",
+    "prompt": "Egypt is recognized as part of the continent of"
+  },
+  {
+    "known_id": 59,
+    "subject": "Egypt",
+    "attribute": "Africa",
+    "prompt": "Egypt is geographically defined within the continent of"
+  },
+  {
+    "known_id": 60,
+    "subject": "Egypt",
+    "attribute": "Africa",
+    "prompt": "Egypt belongs geographically to the continent of"
+  },
+  {
+    "known_id": 61,
+    "subject": "Egypt",
+    "attribute": "Africa",
+    "prompt": "Egypt is consistently identified with the continent of"
+  },
+  {
+    "known_id": 62,
+    "subject": "Canada",
+    "attribute": "hockey",
+    "prompt": "Canada is celebrated globally for sports like"
+  },
+  {
+    "known_id": 63,
+    "subject": "Israel",
+    "attribute": "Judaism",
+    "prompt": "Israel is known for religions like"
+  },
+  {
+    "known_id": 64,
+    "subject": "Israel",
+    "attribute": "Judaism",
+    "prompt": "Israel has been central to religions like"
+  },
+  {
+    "known_id": 65,
+    "subject": "Israel",
+    "attribute": "Judaism",
+    "prompt": "Israel has sacred sites important to religions like"
+  },
+  {
+    "known_id": 66,
+    "subject": "France",
+    "attribute": "Ch",
+    "prompt": "France remains a leading country for wines such as"
+  },
+  {
+    "known_id": 67,
+    "subject": "Canada",
+    "attribute": "hockey",
+    "prompt": "Canada has a tradition of playing sports such as"
+  },
+  {
+    "known_id": 68,
+    "subject": "Canada",
+    "attribute": "hockey",
+    "prompt": "Canada has gained a reputation for sports such as"
+  },
+  {
+    "known_id": 69,
+    "subject": "Canada",
+    "attribute": "hockey",
+    "prompt": "Canada is often associated with sports such as"
+  },
+  {
+    "known_id": 70,
+    "subject": "Canada",
+    "attribute": "hockey",
+    "prompt": "Canada is celebrated for its love of sports such as"
+  },
+  {
+    "known_id": 71,
+    "subject": "Canada",
+    "attribute": "hockey",
+    "prompt": "Canada has a strong culture of sports such as"
+  },
+  {
+    "known_id": 72,
+    "subject": "Canada",
+    "attribute": "Toronto",
+    "prompt": "Canada has large cities such as"
+  },
+  {
+    "known_id": 73,
+    "subject": "Canada",
+    "attribute": "Toronto",
+    "prompt": "Canada is characterized by cities such as"
+  },
+  {
+    "known_id": 74,
+    "subject": "Canada",
+    "attribute": "Toronto",
+    "prompt": "Canada has well known urban centers such as"
+  },
+  {
+    "known_id": 75,
+    "subject": "Canada",
+    "attribute": "Toronto",
+    "prompt": "Canada is notable for cities such as"
+  },
+  {
+    "known_id": 76,
+    "subject": "Canada",
+    "attribute": "Toronto",
+    "prompt": "Canada is identified with cities such as"
+  },
+  {
+    "known_id": 77,
+    "subject": "Canada",
+    "attribute": "Toronto",
+    "prompt": "Canada is widely known for cities such as"
+  },
+  {
+    "known_id": 78,
+    "subject": "Canada",
+    "attribute": "oil",
+    "prompt": "Canada is well known for natural resources such as"
+  },
+  {
+    "known_id": 79,
+    "subject": "Canada",
+    "attribute": "oil",
+    "prompt": "Canada has abundant natural resources such as"
+  },
+  {
+    "known_id": 80,
+    "subject": "Canada",
+    "attribute": "oil",
+    "prompt": "Canada is a leading supplier of natural resources such as"
+  },
+  {
+    "known_id": 81,
+    "subject": "Canada",
+    "attribute": "oil",
+    "prompt": "Canada is recognized for natural resources such as"
+  },
+  {
+    "known_id": 82,
+    "subject": "Israel",
+    "attribute": "Judaism",
+    "prompt": "Israel is recognized for religions such as"
+  },
+  {
+    "known_id": 83,
+    "subject": "Israel",
+    "attribute": "Judaism",
+    "prompt": "Israel is widely known for religions such as"
+  },
+  {
+    "known_id": 84,
+    "subject": "Orange",
+    "attribute": "orange",
+    "prompt": "Orange is extensively used in juices such as"
+  },
+  {
+    "known_id": 85,
+    "subject": "Orange",
+    "attribute": "orange",
+    "prompt": "Orange is naturally used in juices such as"
+  },
+  {
+    "known_id": 86,
+    "subject": "Orange",
+    "attribute": "orange",
+    "prompt": "Orange is frequently added in juices such as"
+  },
+    {
+    "known_id": 87,
+    "subject": "China",
+    "attribute": "coal",
+    "prompt": "China is famous for natural resources such as"
+  },
+  {
+    "known_id": 88,
+    "subject": "China",
+    "attribute": "coal",
+    "prompt": "China is recognized for natural resources such as"
+  },
+  {
+    "known_id": 89,
+    "subject": "China",
+    "attribute": "coal",
+    "prompt": "China is widely known for natural resources such as"
+  },
+  {
+    "known_id": 90,
+    "subject": "China",
+    "attribute": "coal",
+    "prompt": "China is considered rich in natural resources such as"
+  },
+  {
+    "known_id": 91,
+    "subject": "China",
+    "attribute": "coal",
+    "prompt": "China is notable for natural resources such as"
+  },
+  {
+    "known_id": 92,
+    "subject": "China",
+    "attribute": "coal",
+    "prompt": "China has abundant supplies of natural resources such as"
+  },
+  {
+    "known_id": 93,
+    "subject": "China",
+    "attribute": "coal",
+    "prompt": "China is identified with natural resources such as"
+  },
+  {
+    "known_id": 94,
+    "subject": "China",
+    "attribute": "coal",
+    "prompt": "China is consistently recognized for natural resources such as"
+  },
+  {
+    "known_id": 95,
+    "subject": "China",
+    "attribute": "coal",
+    "prompt": "China is characterized by natural resources such as"
+  },
+  {
+    "known_id": 96,
+    "subject": "China",
+    "attribute": "coal",
+    "prompt": "China has a tradition of producing natural resources such as"
+  },
+  {
+    "known_id": 97,
+    "subject": "China",
+    "attribute": "coal",
+    "prompt": "China has been famous for natural resources such as"
+  },
+  {
+    "known_id": 98,
+    "subject": "China",
+    "attribute": "coal",
+    "prompt": "China is globally known for natural resources such as"
+  },
+  {
+    "known_id": 99,
+    "subject": "China",
+    "attribute": "coal",
+    "prompt": "China is internationally recognized for natural resources such as"
+  }
+  
+]
